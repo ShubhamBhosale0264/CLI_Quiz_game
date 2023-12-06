@@ -22,7 +22,7 @@ questions = [
 ]
 options = [
     ["209", "264", "109", "123"],
-    ["AUS", "Eng", "New Zealand", "NZ"],
+    ["AUS", "Eng", "New Zealand", "AUS"],
     ["117", "109", "126", "108"],
     ["Dollar", "Euro", "Peso", "Yen"],
     ["Java", "Python", "Javascript", "JS"],
