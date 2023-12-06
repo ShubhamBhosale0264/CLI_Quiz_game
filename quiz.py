@@ -5,7 +5,7 @@ engine.setProperty('voice', voices[1].id)
 questions = [
     "What is the highest score in ODI cricket?",
     "Which team won the WTC first edition?",
-    "What is the highest score for India in T20 cricket?",
+    "What is the highest score for India in T Twenty cricket?",
     "What is the national currency of the United States of America (USA)?",
     "What language did Guido van Rossum design in 1991?",
     "Where is the Garampani Sanctuary located?",
